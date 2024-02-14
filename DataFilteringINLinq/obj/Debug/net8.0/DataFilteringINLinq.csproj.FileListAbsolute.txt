@@ -1,0 +1,14 @@
+C:\Users\Ramisettylokesh\source\repos\DataFilteringINLinq\DataFilteringINLinq\bin\Debug\net8.0\DataFilteringINLinq.exe
+C:\Users\Ramisettylokesh\source\repos\DataFilteringINLinq\DataFilteringINLinq\bin\Debug\net8.0\DataFilteringINLinq.deps.json
+C:\Users\Ramisettylokesh\source\repos\DataFilteringINLinq\DataFilteringINLinq\bin\Debug\net8.0\DataFilteringINLinq.runtimeconfig.json
+C:\Users\Ramisettylokesh\source\repos\DataFilteringINLinq\DataFilteringINLinq\bin\Debug\net8.0\DataFilteringINLinq.dll
+C:\Users\Ramisettylokesh\source\repos\DataFilteringINLinq\DataFilteringINLinq\bin\Debug\net8.0\DataFilteringINLinq.pdb
+C:\Users\Ramisettylokesh\source\repos\DataFilteringINLinq\DataFilteringINLinq\obj\Debug\net8.0\DataFilteringINLinq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ramisettylokesh\source\repos\DataFilteringINLinq\DataFilteringINLinq\obj\Debug\net8.0\DataFilteringINLinq.AssemblyInfoInputs.cache
+C:\Users\Ramisettylokesh\source\repos\DataFilteringINLinq\DataFilteringINLinq\obj\Debug\net8.0\DataFilteringINLinq.AssemblyInfo.cs
+C:\Users\Ramisettylokesh\source\repos\DataFilteringINLinq\DataFilteringINLinq\obj\Debug\net8.0\DataFilteringINLinq.csproj.CoreCompileInputs.cache
+C:\Users\Ramisettylokesh\source\repos\DataFilteringINLinq\DataFilteringINLinq\obj\Debug\net8.0\DataFilteringINLinq.dll
+C:\Users\Ramisettylokesh\source\repos\DataFilteringINLinq\DataFilteringINLinq\obj\Debug\net8.0\refint\DataFilteringINLinq.dll
+C:\Users\Ramisettylokesh\source\repos\DataFilteringINLinq\DataFilteringINLinq\obj\Debug\net8.0\DataFilteringINLinq.pdb
+C:\Users\Ramisettylokesh\source\repos\DataFilteringINLinq\DataFilteringINLinq\obj\Debug\net8.0\DataFilteringINLinq.genruntimeconfig.cache
+C:\Users\Ramisettylokesh\source\repos\DataFilteringINLinq\DataFilteringINLinq\obj\Debug\net8.0\ref\DataFilteringINLinq.dll
