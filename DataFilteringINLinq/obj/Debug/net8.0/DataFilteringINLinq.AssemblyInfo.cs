@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DataFilteringINLinq")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ea45af119cabdf386f6158d222019180d545142b")]
 [assembly: System.Reflection.AssemblyProductAttribute("DataFilteringINLinq")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DataFilteringINLinq")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

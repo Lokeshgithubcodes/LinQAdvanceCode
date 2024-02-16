@@ -74,9 +74,35 @@ namespace DataFilteringINLinq
             {
                 Console.WriteLine("Id= "+v.sid+ "Name= "+v.sname+ " CGP "+v.CGP);
             }
-            
 
-            
+                     //Joining Customers and Orders Collectios
+                Console.WriteLine("----Joining Customers and Orders Collectios");
+                List<Customer> customers = new List<Customer>
+
+{
+                new Customer { CustomerId = 1, Name = "Lokesh" },
+                new Customer { CustomerId = 2, Name = "somesh" },
+                new Customer { CustomerId = 3, Name = "basha" }
+
+};
+
+                List<Orders> orders = new List<Orders>
+{
+                new Orders { OrderId = 1, CustomerId = 1, Amount = 473 },
+                new Orders { OrderId = 2, CustomerId = 2, Amount = 836 },
+                new Orders { OrderId = 3, CustomerId = 2, Amount = 753 },
+                new Orders { OrderId = 4, CustomerId = 3, Amount = 111 }
+};
+
+                    //Inner joining
+
+                var resultQuery = from order in orders join customer in customers on order.CustomerId equals customer.CustomerId select new { orderId = order.OrderId, CustomerName = customer.Name, OrderAmount = order.Amount };
+
+                foreach (var r in resultQuery)
+                {
+                Console.WriteLine("OrderId: " + r.orderId + " CutomerName: " + r.CustomerName + " OrderAmount: " + r.OrderAmount);
+                }
+
         }
 
     }

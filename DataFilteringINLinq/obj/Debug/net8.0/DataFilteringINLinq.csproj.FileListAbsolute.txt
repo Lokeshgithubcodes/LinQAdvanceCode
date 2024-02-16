@@ -12,3 +12,4 @@ C:\Users\Ramisettylokesh\source\repos\DataFilteringINLinq\DataFilteringINLinq\ob
 C:\Users\Ramisettylokesh\source\repos\DataFilteringINLinq\DataFilteringINLinq\obj\Debug\net8.0\DataFilteringINLinq.pdb
 C:\Users\Ramisettylokesh\source\repos\DataFilteringINLinq\DataFilteringINLinq\obj\Debug\net8.0\DataFilteringINLinq.genruntimeconfig.cache
 C:\Users\Ramisettylokesh\source\repos\DataFilteringINLinq\DataFilteringINLinq\obj\Debug\net8.0\ref\DataFilteringINLinq.dll
+C:\Users\Ramisettylokesh\source\repos\DataFilteringINLinq\DataFilteringINLinq\obj\Debug\net8.0\DataFilteringINLinq.sourcelink.json
